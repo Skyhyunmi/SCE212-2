@@ -1,0 +1,12 @@
+Wonkyo Choe (1):
+      Initial commit
+
+codikh@ajou.ac.kr (7):
+      인스트럭션 파싱 완료.
+      중간저장
+      디버깅 추가
+      잘못된 내용 수정.
+      오류 수정
+      Contribution 추가
+      끝!
+
